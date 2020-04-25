@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'novemberregular';
+    src: url('../css/fonts/novem___-webfont.woff2') format('woff2'),
+         url('../css/fonts/novem___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+// font-family: 'PT Sans', sans-serif;
+
+$font-body: 'PT Sans', sans-serif;
+$font-heading: novemberregular;
